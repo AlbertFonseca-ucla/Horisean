@@ -1,3 +1,5 @@
+/* Broad Styling */
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -16,6 +18,8 @@ a {
 p {
   font-size: 16px;
 }
+
+/* Header */
 
 header {
   padding: 20px;
@@ -51,6 +55,7 @@ header nav ul li {
   margin-left: 25px;
 }
 
+/* Hero */
 .hero {
   height: 800px;
   width: 100%;
@@ -60,12 +65,14 @@ header nav ul li {
   background-position: center;
 }
 
+/* Section- Search Engine Optimization and below */
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
+/* Articles */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -100,6 +107,7 @@ header nav ul li {
   margin-left: 25px;
 }
 
+/* Section - Lead Generation and below */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -111,6 +119,7 @@ header nav ul li {
   background-color: #2589bd;
 }
 
+/* divs */
 .benefit-details {
   margin-bottom: 32px;
   color: #ffffff;
@@ -127,6 +136,7 @@ header nav ul li {
   max-width: 150px;
 }
 
+/* Footer */
 footer {
   padding: 30px;
   clear: both;
