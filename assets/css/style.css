@@ -60,6 +60,12 @@ header nav ul li {
   background-position: center;
 }
 
+.content {
+  width: 75%;
+  display: inline-block;
+  margin-left: 20px;
+}
+
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -92,12 +98,6 @@ header nav ul li {
 .float-right {
   float: right;
   margin-left: 25px;
-}
-
-.content {
-  width: 75%;
-  display: inline-block;
-  margin-left: 20px;
 }
 
 .benefits {
