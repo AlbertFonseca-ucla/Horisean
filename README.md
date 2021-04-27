@@ -1,17 +1,23 @@
 # Horisean
 
-Website accessibility follows standards for a marketing agency that is optimized for search engines
+## Purpose
 
-## Functionality
+A website built for a marketing agency
 
-Website contains a heading with a navigation bar that will take you  
-to the id's associated with them.
+## Built With:
 
-Below is an image known as a hero element, displaying four people in a meeting.
+- HTML
+- CSS
 
-Below the hero, is a section with three articles showing the importance of Search Engine Optimization, Online Reputation Management, and Social Media Marketing. Each contain their own subheading, description, and images which the first and last two float left and the second floats right.
+## Website
 
-To the right is another section that is a vertical section with three subheadings, lead generation, brand awareness, and cost managment. Each of these contain a small black image with a description of their heading.
+https://albertfonseca-ucla.github.io/Horisean/
 
-Below both of these sections, there is a footer that says with a bold heading, "Made with love by Horisean" NOTE: the website does not have the word love, but a red heart emoji instead
-Below we have a copyright symbol, with the company name.
+## Mock Images
+
+<img width="1245" alt="Horiseon | Nav:Hero Image" src="https://user-images.githubusercontent.com/82438047/116190094-db78a700-a6de-11eb-8f68-0d59b5beb4ad.png">
+![Horiseon | Main:Aside](https://user-images.githubusercontent.com/82438047/116190190-04993780-a6df-11eb-830d-c4fdfc77072d.png)
+
+## Contribution
+
+Made by Albert Fonseca
